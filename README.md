@@ -10,3 +10,4 @@ Use the website [Apache Friends](https://www.apachefriends.org/download.html) to
 ```bash
 $ git clone https://github.com/pjayakar/RDBMS-IA2.git
 ```
+After downloading XAMPP, add the contents of code folder in a new folder under htdocs located in xampp.
